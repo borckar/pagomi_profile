@@ -1,2 +1,2 @@
-# pagomi_profile
+# theme_tumblr
 desarrollo en tumblr
