@@ -1,5 +1,9 @@
+DOCUMENTACIÓN RELEVANTE TUMBLR
+###################################################################
+
 API : https://www.tumblr.com/docs/en/custom_themes
 
+*******************************************************************
 
 Themes Base: 
 
@@ -8,3 +12,20 @@ http://wallstocker.tumblr.com/about https://www.tumblr.com/theme/38586
 http://portfolios.tumblr.com/
 
 https://www.tumblr.com/theme/39621
+
+https://dcrazed.com/best-free-tumblr-themes/
+
+*******************************************************************
+
+Ejemplos:
+
+http://www.samanthafalcophotography.com
+
+http://yukoart.com/
+
+*******************************************************************
+
+nO POST: https://github.com/macleodsawyer/NoPo
+
+hiding post: http://mir.lu/post/57877386338/hiding-posts-with-certain-tags-from-the-tumblr
+
