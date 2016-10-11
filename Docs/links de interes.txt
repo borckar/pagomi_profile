@@ -24,8 +24,15 @@ http://www.samanthafalcophotography.com
 http://yukoart.com/
 
 *******************************************************************
+Ocultar posteos
 
 nO POST: https://github.com/macleodsawyer/NoPo
 
 hiding post: http://mir.lu/post/57877386338/hiding-posts-with-certain-tags-from-the-tumblr
+
+*******************************************************************
+
+Ocultar elementos en páginas estáticas
+
+http://beta.beantin.se/customised-tumblr-theme-static-pages/
 
